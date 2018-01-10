@@ -28,6 +28,7 @@ class IbanFrontendWidget extends FrontendWidget
     {
         parent::__construct($arrData);
         $this->validator = new IbanValidator();
+        $this->fields = 22;
     }
 
 
