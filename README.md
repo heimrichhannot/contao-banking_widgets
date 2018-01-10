@@ -4,6 +4,12 @@
 
 This module is a collection of widgets for banking purpose. They are designed to use with [Formhybrid]() module.
 
+## Install
+
+With composer:
+
+```composer require heimrichhannot/contao-banking_widgets```
+
 ## Widgets
 
 ### IBAN
