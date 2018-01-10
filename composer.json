@@ -1,17 +1,16 @@
 {
     "name": "heimrichhannot/contao-banking_widgets",
     "description": "Banking widgets for Contao Open Source CMS and Frontendedit Module",
-    "keywords": ["contao", "haste"],
+    "keywords": ["contao"],
     "type": "contao-module",
+    "homepage": "https://github.com/heimrichhannot/contao-banking_widgets",
     "license": "LGPL-3.0+",
     "authors": [
         {
-            "name": "Codefog",
-            "homepage": "http://codefog.pl"
-        },
-        {
-            "name": "terminal42 gmbh",
-            "homepage": "https://www.terminal42.ch"
+            "name": "Heimrich & Hannot",
+            "email": "digitales@heimrich-hannot.de",
+            "homepage": "http://www.heimrich-hannot.de",
+            "role": "Developer"
         }
     ],
     "require": {
